@@ -12,8 +12,7 @@ cd docs/.vuepress/dist
 # deploy to github pages
 echo 'colorpanda.aifan.jp' > CNAME
 githubUrl=git@github.com:colorp/zh.git
-git config --global user.name "colorp"
-git config --global user.email "shiori.ou@gmail.com"
+
 git init
 git add -A
 git commit -m "${msg}"
