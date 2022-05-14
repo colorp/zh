@@ -11,16 +11,9 @@ cd docs/.vuepress/dist
 
 # deploy to github pages
 echo 'colorpanda.aifan.jp' > CNAME
-
-if [ -z "$GITHUB_TOKEN" ]; then
-  msg='deploy'
-  githubUrl=git@github.com:colorp/zh.git
-else
-  msg='来自github actions的自动部署'
-  githubUrl=git@github.com:colorp/zh.git
-  git config --global user.name "colorp"
-  git config --global user.email "shiori.ou@gmail.com"
-fi
+githubUrl=git@github.com:colorp/zh.git
+git config --global user.name "colorp"
+git config --global user.email "shiori.ou@gmail.com"
 git init
 git add -A
 git commit -m "${msg}"
