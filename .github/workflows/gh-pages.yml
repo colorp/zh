@@ -22,7 +22,7 @@ jobs:
 
       - run: npm install && npm run build
       - run: cd docs/.vuepress/dist && echo 'colorpanda.aifan.jp' > CNAME # Custom domain
-      - run: echo 'google.com, pub-6878702077547492, DIRECT, f08c47fec0942fa0' > ads.txt # 谷歌广告相关文件
+      - run: cd docs/.vuepress/dist && echo 'google.com, pub-6878702077547492, DIRECT, f08c47fec0942fa0' > ads.txt # 谷歌广告相关文件
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
