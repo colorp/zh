@@ -2,7 +2,7 @@
   <div :class="['article-list', { 'no-article-list': isShowArticle }]">
     <div class="article-title">
       <router-link :to="moreArticle || '/archives/'" class="iconfont icon-bi"
-        >最近更新</router-link
+        >最近の記事</router-link
       >
     </div>
     <div class="article-wrapper">
@@ -25,7 +25,7 @@
         <dd></dd>
         <dt>
           <router-link :to="moreArticle || '/archives/'" class="more"
-            >更多文章></router-link
+            >More></router-link
           >
         </dt>
       </dl>
@@ -34,56 +34,60 @@
 </template>
 
 <script>
-
 export default {
-  name: 'UpdateArticle',
+  name: "UpdateArticle",
   props: {
     length: {
       type: [String, Number],
-      default: 3
+      default: 3,
     },
-    moreArticle: String
+    moreArticle: String,
   },
   data() {
     return {
       posts: [],
-      currentPath: ''
-    }
+      currentPath: "",
+    };
   },
   created() {
-    this.posts = this.$site.pages
-    this.currentPath = this.$page.path
+    this.posts = this.$site.pages;
+    this.currentPath = this.$page.path;
   },
   computed: {
     topPublishPosts() {
-      return this.$sortPostsByDate ? this.$sortPostsByDate.filter(post => {
-        const { path } = post
-        return path !== this.currentPath
-      }).slice(0, this.length) : []
-
+      return this.$sortPostsByDate
+        ? this.$sortPostsByDate
+            .filter((post) => {
+              const { path } = post;
+              return path !== this.currentPath;
+            })
+            .slice(0, this.length)
+        : [];
     },
     isShowArticle() {
-      const { frontmatter } = this.$page
-      return !(frontmatter.article !== false)
-    }
+      const { frontmatter } = this.$page;
+      return !(frontmatter.article !== false);
+    },
   },
   methods: {
     getNum(index) {
-      return index < 9 ? '0' + (index + 1) : index + 1
+      return index < 9 ? "0" + (index + 1) : index + 1;
     },
     getDate(item) {
-      return item.frontmatter.date ? item.frontmatter.date.split(" ")[0].slice(5, 10) : ''
-    }
+      return item.frontmatter.date
+        ? item.frontmatter.date.split(" ")[0].slice(5, 10)
+        : "";
+    },
   },
   watch: {
     $route() {
-      this.currentPath = this.$page.path
-    }
-  }
-}
+      this.currentPath = this.$page.path;
+    },
+  },
+};
 </script>
 
-<style lang='stylus'>
+<style lang="stylus">
 // @require '../styles/wrapper.styl'
 .article-list
   // @extend $wrapper
