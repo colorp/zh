@@ -258,6 +258,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       },
     ],
     "mermaidjs",
+    ["seo", {}],
   ],
 
   markdown: {
