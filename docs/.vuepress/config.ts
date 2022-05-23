@@ -25,6 +25,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
   // 主题配置
   themeConfig: {
+    domain: "https://colorpanda.aifan.jp",
     // 导航配置
     nav: [
       { text: "Home", link: "/" },
@@ -275,10 +276,13 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             : "website",
         url: (_, $site, path) => ($site.themeConfig.domain || "") + path,
         image: ($page, $site) =>
-          $page.frontmatter.image &&
-          (($site.themeConfig.domain &&
-            !$page.frontmatter.image.startsWith("http")) ||
-            "") + $page.frontmatter.image,
+          $site.themeConfig.domain &&
+          $site.themeConfig.domain + "/img/logo_mono.png",
+        // image: ($page, $site) =>
+        //   $page.frontmatter.image &&
+        //   (($site.themeConfig.domain &&
+        //     !$page.frontmatter.image.startsWith("http")) ||
+        //     "") + $page.frontmatter.image,
         publishedAt: ($page) =>
           $page.frontmatter.date && new Date($page.frontmatter.date),
         modifiedAt: ($page) => $page.lastUpdated && new Date($page.lastUpdated),
