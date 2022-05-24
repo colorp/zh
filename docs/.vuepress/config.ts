@@ -8,6 +8,11 @@ import dayjs from "dayjs";
 import baiduCode from "./config/baiduCode"; // 百度统计hm码
 import htmlModules from "./config/htmlModules"; // 自定义插入的html块
 
+// set your global feed options - override in page frontmatter `feed`
+const feed_options = {
+  canonical_base: "https://colorpanda.aifan.jp",
+};
+
 export default defineConfig4CustomTheme<VdoingThemeConfig>({
   // theme: "vdoing", // 使用npm主题包
   theme: resolve(__dirname, "../../vdoing"), // 使用本地主题包
@@ -289,6 +294,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         modifiedAt: ($page) => $page.lastUpdated && new Date($page.lastUpdated),
       },
     ],
+    ["feed", feed_options],
   ],
 
   markdown: {
