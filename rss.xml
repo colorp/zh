@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title></title>
+        <link>https://colorpanda.aifan.jp</link>
+        <description></description>
+        <lastBuildDate>Tue, 24 May 2022 12:20:52 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国全土の川地図(Chinese rivers map)]]></title>
+            <link>https://colorpanda.aifan.jp/pages/dd78ce/</link>
+            <guid>https://colorpanda.aifan.jp/pages/dd78ce/</guid>
+            <pubDate>Sat, 21 May 2022 00:20:27 GMT</pubDate>
+            <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/china_rivers_map.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[[中日家庭の子育て] 中国語学習のためのアプリやツール]]></title>
+            <link>https://colorpanda.aifan.jp/pages/65559e/</link>
+            <guid>https://colorpanda.aifan.jp/pages/65559e/</guid>
+            <pubDate>Sun, 22 May 2022 02:55:59 GMT</pubDate>
+            <description><![CDATA[中日家庭なら普通の家庭よりも子供の言語教育により一層悩んだりしていませんか 😫]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[漢字] 簡体字 繁体字 日本の漢字の違い]]></title>
+            <link>https://colorpanda.aifan.jp/pages/a0e239/</link>
+            <guid>https://colorpanda.aifan.jp/pages/a0e239/</guid>
+            <pubDate>Mon, 23 May 2022 22:18:39 GMT</pubDate>
+            <description><![CDATA[中国語には「簡体字」と「繁体字」の 2 種類があり、]]></description>
+            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Chinese_characters_logo.svg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[[漢字の成り立ち] 起]]></title>
+            <link>https://colorpanda.aifan.jp/pages/4f44ae/</link>
+            <guid>https://colorpanda.aifan.jp/pages/4f44ae/</guid>
+            <pubDate>Mon, 23 May 2022 01:21:13 GMT</pubDate>
+            <enclosure url="https://hanyu-word-gif.cdn.bcebos.com/bf523c118688d48f3b6565c1698db68f5.gif">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[[中国語] カフェ用語]]></title>
+            <link>https://colorpanda.aifan.jp/pages/997fdd/</link>
+            <guid>https://colorpanda.aifan.jp/pages/997fdd/</guid>
+            <pubDate>Mon, 16 May 2022 23:53:25 GMT</pubDate>
+            <description><![CDATA[| アメリカン | 美式咖啡（ měi shì kā fēi） | 美式 : アメリカ式。 美 : 中国語の美国(アメリカ)の 略称。 |
+| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |
+| カフェラテ | 拿铁 ( ná tiě )             | Latte の発音の当て字。                                           |
+| カフェモカ | 摩卡 ( mó kǎ )              | mocha/moca の発音の当て字。                                      |
+| ココア     | 可可 ( kě kě )              | cocoa の発音の当て字。                                           |]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[中国語] コロナ関連の用語]]></title>
+            <link>https://colorpanda.aifan.jp/pages/e2fc75/</link>
+            <guid>https://colorpanda.aifan.jp/pages/e2fc75/</guid>
+            <pubDate>Mon, 23 May 2022 22:21:09 GMT</pubDate>
+            <description><![CDATA[| ロックダウン   | 封锁 (fēng suǒ)                                                                               | Lock down                           | -                                                              |
+| ゼロコロナ政策 | 新冠肺炎清零政策 (xīn guān fèi yán qīng líng zhèng cè)                                        | Zero Corona Policy                  | -                                                              |
+| コンテナ病院   | 方舱医院 (fāng cāng yī yuàn)                                                                  | Module Hospital                     | -                                                              |]]></description>
+        </item>
+        <item>
+            <title><![CDATA[おすすめの有名な中国歌リスト]]></title>
+            <link>https://colorpanda.aifan.jp/pages/a397f9/</link>
+            <guid>https://colorpanda.aifan.jp/pages/a397f9/</guid>
+            <pubDate>Sun, 22 May 2022 00:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国語の発音表記(発音記号)]]></title>
+            <link>https://colorpanda.aifan.jp/pages/e5a339/</link>
+            <guid>https://colorpanda.aifan.jp/pages/e5a339/</guid>
+            <pubDate>Tue, 17 May 2022 14:42:17 GMT</pubDate>
+            <description><![CDATA[graph LR
+    Top[中国語の発音表記] -->|中国大陸や周辺地域| main(1.拼音: ピンイン, 漢語拼音)
+    main --> main_what(ローマ字による発音表記体系)
+    main --> main_sample(例えば 拼音 自体のピンインは pīnyīn である)
+    main --> main_year(1958年より)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国語を話す国や地域]]></title>
+            <link>https://colorpanda.aifan.jp/pages/fe024b/</link>
+            <guid>https://colorpanda.aifan.jp/pages/fe024b/</guid>
+            <pubDate>Sat, 21 May 2022 00:27:59 GMT</pubDate>
+            <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/Chinese%20Speaking%20Countries.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[今日は520の日]]></title>
+            <link>https://colorpanda.aifan.jp/pages/7bb3af/</link>
+            <guid>https://colorpanda.aifan.jp/pages/7bb3af/</guid>
+            <pubDate>Sat, 21 May 2022 00:48:31 GMT</pubDate>
+            <description><![CDATA[今日 5 月 20 日は中国の Network Valentine's Day (中国語： 网络情人节) です。]]></description>
+            <enclosure url="https://www.24taiwan.com/wp-content/uploads/2020/02/742b6461de2e70fbf524a5273d0c8a55-1024x574.png">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
