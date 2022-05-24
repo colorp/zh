@@ -296,6 +296,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       },
     ],
     ["feed", feed_options],
+    ["social-share"],
   ],
 
   markdown: {
