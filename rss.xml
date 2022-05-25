@@ -4,7 +4,7 @@
         <title></title>
         <link>https://colorpanda.aifan.jp</link>
         <description></description>
-        <lastBuildDate>Tue, 24 May 2022 13:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:17:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
@@ -59,6 +59,12 @@
             <description><![CDATA[| ロックダウン   | 封锁 (fēng suǒ)                                                                               | Lock down                           | -                                                              |
 | ゼロコロナ政策 | 新冠肺炎清零政策 (xīn guān fèi yán qīng líng zhèng cè)                                        | Zero Corona Policy                  | -                                                              |
 | コンテナ病院   | 方舱医院 (fāng cāng yī yuàn)                                                                  | Module Hospital                     | -                                                              |]]></description>
+        </item>
+        <item>
+            <title><![CDATA[サル痘 Monkey Pox関連の中国語]]></title>
+            <link>https://colorpanda.aifan.jp/pages/794bfe/</link>
+            <guid>https://colorpanda.aifan.jp/pages/794bfe/</guid>
+            <pubDate>Wed, 25 May 2022 11:32:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[おすすめの有名な中国歌リスト]]></title>
