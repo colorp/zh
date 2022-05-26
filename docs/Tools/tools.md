@@ -22,6 +22,7 @@ author:
 
 ### 辞書類
 
+- [百度汉语](https://hanyu.baidu.com/)
 - [汉典](https://www.zdic.net/)
 - [有道词典](https://www.youdao.com/w/jap/和平): オンラインの中国語辞書。PC や携帯アプリもある。
 - [有道少儿词典](https://kiddict.youdao.com/): `有道词典` の子供用スマホアパリ。
