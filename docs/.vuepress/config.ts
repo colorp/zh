@@ -69,8 +69,11 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     bodyBgImg: [
       // 必应每日壁纸API https://api.paugram.com/help/bing
       // "https://api.paugram.com/bing",
-      "https://api.paugram.com/wallpaper",
-      // "https://cdn.jsdelivr.net/gh/colorp/img/2022/shanghai.jpg",
+
+      // 随机动漫壁纸 https://api.paugram.com/help/wallpaper
+      // "https://api.paugram.com/wallpaper",
+
+      "https://cdn.jsdelivr.net/gh/colorp/img/2022/shanghai.jpg",
       // "https://cdn.jsdelivr.net/gh/colorp/img/2022/エーゲ海の白い集落.jpeg",
       // "https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175828.jpeg",
     ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时每隔15秒换一张。
