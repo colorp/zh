@@ -4,7 +4,7 @@
         <title></title>
         <link>https://colorpanda.aifan.jp</link>
         <description></description>
-        <lastBuildDate>Fri, 27 May 2022 16:54:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 17:26:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
@@ -71,21 +71,33 @@
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[[育児] 唐詩 厳選50首]]></title>
+            <link>https://colorpanda.aifan.jp/pages/0f0496/</link>
+            <guid>https://colorpanda.aifan.jp/pages/0f0496/</guid>
+            <pubDate>Sat, 28 May 2022 02:15:09 GMT</pubDate>
+            <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/唐诗.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[[育児] 白雪姫 しらゆきひめ]]></title>
+            <link>https://colorpanda.aifan.jp/pages/98b00a/</link>
+            <guid>https://colorpanda.aifan.jp/pages/98b00a/</guid>
+            <pubDate>Sat, 28 May 2022 01:53:17 GMT</pubDate>
+            <description><![CDATA[@youtube]]></description>
+        </item>
+        <item>
             <title><![CDATA[[育児] 西遊記 Journey to the West]]></title>
             <link>https://colorpanda.aifan.jp/pages/46836f/</link>
             <guid>https://colorpanda.aifan.jp/pages/46836f/</guid>
             <pubDate>Sat, 28 May 2022 01:23:57 GMT</pubDate>
-            <description><![CDATA[:::tip 🐼
-以下は子供向けのアニメ版になります。
-:::]]></description>
+            <description><![CDATA[@youtube]]></description>
         </item>
         <item>
             <title><![CDATA[[中国語] カフェ用語]]></title>
             <link>https://colorpanda.aifan.jp/pages/997fdd/</link>
             <guid>https://colorpanda.aifan.jp/pages/997fdd/</guid>
             <pubDate>Mon, 16 May 2022 23:53:25 GMT</pubDate>
-            <description><![CDATA[| アメリカン | 美式咖啡（ měi shì kā fēi） | 美式 : アメリカ式。 美 : 中国語の美国(アメリカ)の 略称。 |
-| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |
+            <description><![CDATA[| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |
 | カフェラテ | 拿铁 ( ná tiě )             | Latte の発音の当て字。                                           |
 | カフェモカ | 摩卡 ( mó kǎ )              | mocha/moca の発音の当て字。                                      |
 | ココア     | 可可 ( kě kě )              | cocoa の発音の当て字。                                           |]]></description>
