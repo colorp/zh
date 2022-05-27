@@ -44,6 +44,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         ],
       },
       {
+        text: "漢字図解",
+        link: "https://colorpanda.aifan.jp/categories/?category=漢字図解",
+      },
+      {
         text: "Tools",
         link: "/tools/",
       },
