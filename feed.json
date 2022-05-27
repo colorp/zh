@@ -5,6 +5,14 @@
     "feed_url": "https://colorpanda.aifan.jp/feed.json",
     "items": [
         {
+            "id": "https://colorpanda.aifan.jp/pages/8d5ad3/",
+            "url": "https://colorpanda.aifan.jp/pages/8d5ad3/",
+            "title": "AIで山水画を生成",
+            "summary": "山水画（さんすいが, Shan shui）は、中国で発達した絵画のジャンルである。",
+            "image": "https://raw.githubusercontent.com/LingDong-/shan-shui-inf/master/screenshots/screen001.jpg",
+            "date_modified": "2022-05-27T23:52:08.000Z"
+        },
+        {
             "id": "https://colorpanda.aifan.jp/pages/dd78ce/",
             "url": "https://colorpanda.aifan.jp/pages/dd78ce/",
             "title": "中国全土の川地図(Chinese rivers map)",
