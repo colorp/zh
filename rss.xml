@@ -4,7 +4,7 @@
         <title></title>
         <link>https://colorpanda.aifan.jp</link>
         <description></description>
-        <lastBuildDate>Fri, 27 May 2022 16:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 16:23:35 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
@@ -67,6 +67,8 @@
             <guid>https://colorpanda.aifan.jp/pages/3d374e/</guid>
             <pubDate>Sat, 28 May 2022 00:51:41 GMT</pubDate>
             <description><![CDATA[@youtube]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/九九乘法表.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[[中国語] カフェ用語]]></title>
