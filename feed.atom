@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://colorpanda.aifan.jp</id>
     <title></title>
-    <updated>2022-05-28T04:03:23.590Z</updated>
+    <updated>2022-05-31T15:38:55.014Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://colorpanda.aifan.jp"/>
     <link rel="self" href="https://colorpanda.aifan.jp/feed.atom"/>
@@ -60,6 +60,14 @@
         <link href="https://colorpanda.aifan.jp/pages/c0b5cf/">
         </link>
         <updated>2022-05-27T23:22:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国語の漢字にピンインと声調記号を入力/表示する方法]]></title>
+        <id>https://colorpanda.aifan.jp/pages/5b85d3/</id>
+        <link href="https://colorpanda.aifan.jp/pages/5b85d3/">
+        </link>
+        <updated>2022-05-31T22:50:06.000Z</updated>
+        <summary type="html"><![CDATA[下図のように、まずキーボード設定画面から 簡体中文 → 簡体拼音 を追加してから]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[[漢字図解] 軍]]></title>
