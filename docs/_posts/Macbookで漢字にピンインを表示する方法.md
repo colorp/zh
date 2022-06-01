@@ -53,6 +53,13 @@ author:
 
 ![Pageアプリを使いピンインや声調を表示/入力する方法](https://cdn.jsdelivr.net/gh/colorp/img/2022/page-拼音-簡体字-pinyin.gif)
 
+## Chrome ブラウザのプラグインを使用する方法
+
+[Zhongwen: Chinese-English Dictionary](https://chrome.google.com/webstore/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde) という Chrome のプラグインをインストールしておくと、
+下記のように、マウスを漢字に移動するとピンインが表示されるようになります。
+
+![Add Pinyin - Chinese Zero to Hero Reader](https://lh3.googleusercontent.com/g_oponVv4Xo6Vnss6nmAV_RIFtZWOeIzcZKqVfIB_nW7tecv0AxREelK6JkiMP_TSk-JQVS9t4KOJiU5XJHUMKYohw=w640-h400-e365-rj-sc0x00ffffff)
+
 ## 参考記事
 
 [Mac でピンインの声調記号を入力する](https://medium.com/@vividtone/macos-pinyin-tone-input-8e545d94a6a1)
