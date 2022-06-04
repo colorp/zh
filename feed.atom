@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://colorpanda.aifan.jp</id>
     <title></title>
-    <updated>2022-06-04T03:14:50.325Z</updated>
+    <updated>2022-06-04T06:17:18.113Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://colorpanda.aifan.jp"/>
     <link rel="self" href="https://colorpanda.aifan.jp/feed.atom"/>
@@ -142,6 +142,14 @@ audio element.
         <updated>2022-05-25T11:32:45.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[中国を知るためのYoutubeチャンネル]]></title>
+        <id>https://colorpanda.aifan.jp/pages/b1b7ac/</id>
+        <link href="https://colorpanda.aifan.jp/pages/b1b7ac/">
+        </link>
+        <updated>2022-06-04T14:50:35.000Z</updated>
+        <summary type="html"><![CDATA[中国の良い面も悪い面をそのまま伝える Youtube チャンネルを紹介します。]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[おすすめの有名な中国歌リスト]]></title>
         <id>https://colorpanda.aifan.jp/pages/a397f9/</id>
         <link href="https://colorpanda.aifan.jp/pages/a397f9/">
@@ -166,13 +174,5 @@ audio element.
         <link href="https://colorpanda.aifan.jp/pages/fe024b/">
         </link>
         <updated>2022-05-21T00:27:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日は520の日]]></title>
-        <id>https://colorpanda.aifan.jp/pages/7bb3af/</id>
-        <link href="https://colorpanda.aifan.jp/pages/7bb3af/">
-        </link>
-        <updated>2022-05-21T00:48:31.000Z</updated>
-        <summary type="html"><![CDATA[今日 5 月 20 日は中国の Network Valentine's Day (中国語： 网络情人节) です。]]></summary>
     </entry>
 </feed>

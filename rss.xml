@@ -4,7 +4,7 @@
         <title></title>
         <link>https://colorpanda.aifan.jp</link>
         <description></description>
-        <lastBuildDate>Sat, 04 Jun 2022 03:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 06:17:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
@@ -142,6 +142,13 @@ audio element.
             <pubDate>Wed, 25 May 2022 11:32:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国を知るためのYoutubeチャンネル]]></title>
+            <link>https://colorpanda.aifan.jp/pages/b1b7ac/</link>
+            <guid>https://colorpanda.aifan.jp/pages/b1b7ac/</guid>
+            <pubDate>Sat, 04 Jun 2022 14:50:35 GMT</pubDate>
+            <description><![CDATA[中国の良い面も悪い面をそのまま伝える Youtube チャンネルを紹介します。]]></description>
+        </item>
+        <item>
             <title><![CDATA[おすすめの有名な中国歌リスト]]></title>
             <link>https://colorpanda.aifan.jp/pages/a397f9/</link>
             <guid>https://colorpanda.aifan.jp/pages/a397f9/</guid>
@@ -164,15 +171,6 @@ audio element.
             <guid>https://colorpanda.aifan.jp/pages/fe024b/</guid>
             <pubDate>Sat, 21 May 2022 00:27:59 GMT</pubDate>
             <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/Chinese%20Speaking%20Countries.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[今日は520の日]]></title>
-            <link>https://colorpanda.aifan.jp/pages/7bb3af/</link>
-            <guid>https://colorpanda.aifan.jp/pages/7bb3af/</guid>
-            <pubDate>Sat, 21 May 2022 00:48:31 GMT</pubDate>
-            <description><![CDATA[今日 5 月 20 日は中国の Network Valentine's Day (中国語： 网络情人节) です。]]></description>
-            <enclosure url="https://www.24taiwan.com/wp-content/uploads/2020/02/742b6461de2e70fbf524a5273d0c8a55-1024x574.png">
             </enclosure>
         </item>
     </channel>
