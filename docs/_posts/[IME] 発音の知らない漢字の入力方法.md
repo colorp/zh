@@ -3,6 +3,7 @@ title: "[IME] 発音の知らない・忘れた漢字の入力方法"
 date: 2022-06-15 21:33:33
 permalink: /pages/9d9f44/
 sidebar: auto
+image: https://cdn.jsdelivr.net/gh/colorp/img/2022/20220615215920.png
 categories:
   - 記事
 tags:
