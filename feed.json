@@ -112,17 +112,10 @@
             "date_modified": "2022-05-28T01:23:57.000Z"
         },
         {
-            "id": "https://colorpanda.aifan.jp/pages/997fdd/",
-            "url": "https://colorpanda.aifan.jp/pages/997fdd/",
-            "title": "[中国語] カフェ用語",
-            "summary": "| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |\n| カフェラテ | 拿铁 ( ná tiě )             | Latte の発音の当て字。                                           |\n| カフェモカ | 摩卡 ( mó kǎ )              | mocha/moca の発音の当て字。                                      |\n| ココア     | 可可 ( kě kě )              | cocoa の発音の当て字。                                           |",
-            "date_modified": "2022-05-16T23:53:25.000Z"
-        },
-        {
             "id": "https://colorpanda.aifan.jp/pages/e2fc75/",
             "url": "https://colorpanda.aifan.jp/pages/e2fc75/",
             "title": "[中国語] コロナ関連の用語",
-            "summary": "| ロックダウン   | 封锁 (fēng suǒ)                                                                               | Lock down                           | -                                                              |\n| ゼロコロナ政策 | 新冠肺炎清零政策 (xīn guān fèi yán qīng líng zhèng cè)                                        | Zero Corona Policy                  | -                                                              |\n| コンテナ病院   | 方舱医院 (fāng cāng yī yuàn)                                                                  | Module Hospital                     | -                                                              |",
+            "summary": "| コロナ         | 冠状病毒肺炎 (guān zhuàng bìng dú fèi yán) ,  科罗娜 (Kē luó nà)                        | Coronavirus disease (COVID)         | 科罗娜 は英語の Corona の当て字。 |\n| 新型コロナ     | 新型冠状病毒肺炎 (xīn xíng guān zhuàng bìng dú fèi yán) ,  新冠肺炎 (xīn guān fèi yán)  | Coronavirus disease 2019 (COVID-19) | -                                                              |\n| ロックダウン   | 封锁 (fēng suǒ)                                                                               | Lock down                           | -                                                              |\n| ゼロコロナ政策 | 新冠肺炎清零政策 (xīn guān fèi yán qīng líng zhèng cè)                                        | Zero Corona Policy                  | -                                                              |\n| コンテナ病院   | 方舱医院 (fāng cāng yī yuàn)                                                                  | Module Hospital                     | -                                                              |",
             "date_modified": "2022-05-23T22:21:09.000Z"
         },
         {
@@ -143,6 +136,13 @@
             "url": "https://colorpanda.aifan.jp/pages/a397f9/",
             "title": "おすすめの有名な中国歌リスト",
             "date_modified": "2022-05-22T00:12:56.000Z"
+        },
+        {
+            "id": "https://colorpanda.aifan.jp/pages/e5a339/",
+            "url": "https://colorpanda.aifan.jp/pages/e5a339/",
+            "title": "中国語の発音表記(発音記号)",
+            "summary": "graph LR\n    Top[中国語の発音表記] -->|中国大陸や周辺地域| main(1.拼音: ピンイン, 漢語拼音)\n    main --> main_what(ローマ字による発音表記体系)\n    main --> main_sample(例えば 拼音 自体のピンインは pīnyīn である)\n    main --> main_year(1958年より)",
+            "date_modified": "2022-05-17T14:42:17.000Z"
         }
     ]
 }
