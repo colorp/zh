@@ -51,6 +51,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: "Tools",
         link: "/tools/",
       },
+      { text: "Friends", link: "/friends/" },
       { text: "About", link: "/about/" },
       { text: "RSS", link: "https://colorpanda.aifan.jp/rss.xml" },
     ],
