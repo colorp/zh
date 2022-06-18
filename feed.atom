@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://colorpanda.aifan.jp</id>
     <title></title>
-    <updated>2022-06-17T09:04:41.841Z</updated>
+    <updated>2022-06-18T02:37:24.954Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://colorpanda.aifan.jp"/>
     <link rel="self" href="https://colorpanda.aifan.jp/feed.atom"/>
@@ -122,14 +122,23 @@
         <summary type="html"><![CDATA[@youtube]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[中国語] カフェ用語]]></title>
+        <id>https://colorpanda.aifan.jp/pages/997fdd/</id>
+        <link href="https://colorpanda.aifan.jp/pages/997fdd/">
+        </link>
+        <updated>2022-05-16T23:53:25.000Z</updated>
+        <summary type="html"><![CDATA[| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |
+| カフェラテ | 拿铁 ( ná tiě )             | Latte の発音の当て字。                                           |
+| カフェモカ | 摩卡 ( mó kǎ )              | mocha/moca の発音の当て字。                                      |
+| ココア     | 可可 ( kě kě )              | cocoa の発音の当て字。                                           |]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[中国語] コロナ関連の用語]]></title>
         <id>https://colorpanda.aifan.jp/pages/e2fc75/</id>
         <link href="https://colorpanda.aifan.jp/pages/e2fc75/">
         </link>
         <updated>2022-05-23T22:21:09.000Z</updated>
-        <summary type="html"><![CDATA[| コロナ         | 冠状病毒肺炎 (guān zhuàng bìng dú fèi yán) ,  科罗娜 (Kē luó nà)                        | Coronavirus disease (COVID)         | 科罗娜 は英語の Corona の当て字。 |
-| 新型コロナ     | 新型冠状病毒肺炎 (xīn xíng guān zhuàng bìng dú fèi yán) ,  新冠肺炎 (xīn guān fèi yán)  | Coronavirus disease 2019 (COVID-19) | -                                                              |
-| ロックダウン   | 封锁 (fēng suǒ)                                                                               | Lock down                           | -                                                              |
+        <summary type="html"><![CDATA[| ロックダウン   | 封锁 (fēng suǒ)                                                                               | Lock down                           | -                                                              |
 | ゼロコロナ政策 | 新冠肺炎清零政策 (xīn guān fèi yán qīng líng zhèng cè)                                        | Zero Corona Policy                  | -                                                              |
 | コンテナ病院   | 方舱医院 (fāng cāng yī yuàn)                                                                  | Module Hospital                     | -                                                              |]]></summary>
     </entry>
@@ -154,17 +163,5 @@
         <link href="https://colorpanda.aifan.jp/pages/a397f9/">
         </link>
         <updated>2022-05-22T00:12:56.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国語の発音表記(発音記号)]]></title>
-        <id>https://colorpanda.aifan.jp/pages/e5a339/</id>
-        <link href="https://colorpanda.aifan.jp/pages/e5a339/">
-        </link>
-        <updated>2022-05-17T14:42:17.000Z</updated>
-        <summary type="html"><![CDATA[graph LR
-    Top[中国語の発音表記] -->|中国大陸や周辺地域| main(1.拼音: ピンイン, 漢語拼音)
-    main --> main_what(ローマ字による発音表記体系)
-    main --> main_sample(例えば 拼音 自体のピンインは pīnyīn である)
-    main --> main_year(1958年より)]]></summary>
     </entry>
 </feed>
