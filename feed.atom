@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://colorpanda.aifan.jp</id>
     <title></title>
-    <updated>2022-06-21T17:36:34.757Z</updated>
+    <updated>2022-06-22T07:39:06.307Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://colorpanda.aifan.jp"/>
     <link rel="self" href="https://colorpanda.aifan.jp/feed.atom"/>
@@ -150,18 +150,18 @@
         <updated>2022-05-25T11:32:45.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[世界最大の無料の電子書籍サイト-Zlibrary]]></title>
+        <id>https://colorpanda.aifan.jp/pages/b2adaa/</id>
+        <link href="https://colorpanda.aifan.jp/pages/b2adaa/">
+        </link>
+        <updated>2022-06-22T15:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Zlibrary は、現時点（2022 年 06 月 22 日）]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中国を知るためのYoutubeチャンネル]]></title>
         <id>https://colorpanda.aifan.jp/pages/b1b7ac/</id>
         <link href="https://colorpanda.aifan.jp/pages/b1b7ac/">
         </link>
         <updated>2022-06-04T14:50:35.000Z</updated>
-        <summary type="html"><![CDATA[中国の良い面も悪い面をそのまま伝える Youtube チャンネルを紹介します。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おすすめの有名な中国歌リスト]]></title>
-        <id>https://colorpanda.aifan.jp/pages/a397f9/</id>
-        <link href="https://colorpanda.aifan.jp/pages/a397f9/">
-        </link>
-        <updated>2022-05-22T00:12:56.000Z</updated>
     </entry>
 </feed>
