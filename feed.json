@@ -49,17 +49,25 @@
             "date_modified": "2022-06-17T16:48:19.000Z"
         },
         {
+            "id": "https://colorpanda.aifan.jp/pages/7d0a48/",
+            "url": "https://colorpanda.aifan.jp/pages/7d0a48/",
+            "title": "[凯叔讲故事] 成语故事：盲人摸象 (子供向け成語の由来ストーリー 中国語音声版)",
+            "summary": "Wiki の抜粋になりますが、",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Blind_monks_examining_an_elephant.jpg",
+            "date_modified": "2022-06-25T15:00:08.000Z"
+        },
+        {
             "id": "https://colorpanda.aifan.jp/pages/65559e/",
             "url": "https://colorpanda.aifan.jp/pages/65559e/",
             "title": "[中日家庭の子育て] 中国語学習のためのアプリやツール",
-            "summary": "中日家庭なら普通の家庭よりも子供の言語教育により一層悩んだりしていませんか 😫",
+            "summary": "母国語の中国語や英語などをどう勉強すれば良いのか悩んだりしている方が多いかと思います。",
             "date_modified": "2022-05-22T02:55:59.000Z"
         },
         {
             "id": "https://colorpanda.aifan.jp/pages/a0e239/",
             "url": "https://colorpanda.aifan.jp/pages/a0e239/",
             "title": "[漢字] 簡体字 繁体字 日本の漢字の違い",
-            "summary": "中国語には「簡体字」と「繁体字」の 2 種類があり、",
+            "summary": "\n\nYour browser does not support the\naudio element.\n",
             "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Chinese_characters_logo.svg",
             "date_modified": "2022-05-23T22:18:39.000Z"
         },
@@ -138,12 +146,6 @@
             "summary": "Zlibrary は、現時点（2022 年 06 月 22 日）",
             "image": "https://cdn.jsdelivr.net/gh/colorp/img/2022/20220622161659.png",
             "date_modified": "2022-06-22T15:53:59.000Z"
-        },
-        {
-            "id": "https://colorpanda.aifan.jp/pages/b1b7ac/",
-            "url": "https://colorpanda.aifan.jp/pages/b1b7ac/",
-            "title": "中国を知るためのYoutubeチャンネル",
-            "date_modified": "2022-06-04T14:50:35.000Z"
         }
     ]
 }
