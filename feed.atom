@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://colorpanda.aifan.jp</id>
     <title></title>
-    <updated>2022-06-25T06:19:44.575Z</updated>
+    <updated>2022-06-27T05:03:55.377Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://colorpanda.aifan.jp"/>
     <link rel="self" href="https://colorpanda.aifan.jp/feed.atom"/>
@@ -38,13 +38,21 @@
         <summary type="html"><![CDATA[u'yu'hps ：]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[漢字勉強のためのアプリ-漢字樹雙語識字]]></title>
+        <id>https://colorpanda.aifan.jp/pages/699782/</id>
+        <link href="https://colorpanda.aifan.jp/pages/699782/">
+        </link>
+        <updated>2022-06-27T13:43:22.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[ネット用語] 天花板]]></title>
         <id>https://colorpanda.aifan.jp/pages/81cda3/</id>
         <link href="https://colorpanda.aifan.jp/pages/81cda3/">
         </link>
         <updated>2022-05-28T10:45:10.000Z</updated>
-        <summary type="html"><![CDATA[:::tip 🐼 例文
-🇯🇵：あの歌手をこえるような存在はいないでしょう]]></summary>
+        <summary type="html"><![CDATA[:::tip 🐼
+ 表記付のものは中国語になります。
+:::]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[[中国民謡] 民谣夜听 by 陈小虎]]></title>
@@ -52,6 +60,7 @@
         <link href="https://colorpanda.aifan.jp/pages/aadfac/">
         </link>
         <updated>2022-06-17T16:48:19.000Z</updated>
+        <summary type="html"><![CDATA[ゆっくりご視聴ください。 😄]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[[凯叔讲故事] 成语故事：盲人摸象 (子供向け成語の由来ストーリー 中国語音声版)]]></title>
@@ -59,7 +68,7 @@
         <link href="https://colorpanda.aifan.jp/pages/7d0a48/">
         </link>
         <updated>2022-06-25T15:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Wiki の抜粋になりますが、]]></summary>
+        <summary type="html"><![CDATA[『物事や人物の一部、ないしは一面だけを理解して、すべて理解したと錯覚してしまう』という意味をします。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[[中日家庭の子育て] 中国語学習のためのアプリやツール]]></title>
@@ -67,7 +76,12 @@
         <link href="https://colorpanda.aifan.jp/pages/65559e/">
         </link>
         <updated>2022-05-22T02:55:59.000Z</updated>
-        <summary type="html"><![CDATA[母国語の中国語や英語などをどう勉強すれば良いのか悩んだりしている方が多いかと思います。]]></summary>
+        <summary type="html"><![CDATA[| アプリ                                                                               | カテゴリ                            | 説明                                                                        | リンク 🔗                                                                                                                                                                                                                                                                             | 有料/無料                            |
+| :----------------------------------------------------------------------------------- | :---------------------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- |
+| 儿歌多多                                 | 子供向けの歌,中国の昔話やストーリー | 寝る前や車移動中に愛用しています。                                          | iPhone や iPad  Android  Youtube チャンネル | 基本無料で有料コンテンツあり         |
+| 有道少儿词典                             | 辞書                                | 子供向けの中国語辞書                                                        | iPhone,iPad,Android 対応                                                                                                                                                                                                                                | 無料                                 |
+| 洪恩识字 | 漢字                                | ゲーム感覚で漢字の勉強                                                      | iPhone や iPad                                                                                                                                                                                              | 一部だけ無料で大半のコンテンツは有料 |
+| 悟空识字    | 漢字                                | ゲーム感覚で漢字の勉強。洪恩识字 の類似サービスで、どちらかにすれば良い。 | iPhone,iPad,Android 対応                                                                                                                                                                                                          | 一部だけ無料で大半のコンテンツは有料 |]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[[漢字] 簡体字 繁体字 日本の漢字の違い]]></title>
@@ -75,11 +89,6 @@
         <link href="https://colorpanda.aifan.jp/pages/a0e239/">
         </link>
         <updated>2022-05-23T22:18:39.000Z</updated>
-        <summary type="html"><![CDATA[
-
-Your browser does not support the
-audio element.
-]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[[漢字の成り立ち] 起]]></title>
@@ -87,6 +96,10 @@ audio element.
         <link href="https://colorpanda.aifan.jp/pages/4f44ae/">
         </link>
         <updated>2022-05-23T01:21:13.000Z</updated>
+        <summary type="html"><![CDATA[
+Your browser does not support the
+audio element.
+]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[[漢字] 部首の歌]]></title>
@@ -160,13 +173,5 @@ audio element.
         <link href="https://colorpanda.aifan.jp/pages/794bfe/">
         </link>
         <updated>2022-05-25T11:32:45.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界最大の無料の電子書籍サイト-Zlibrary]]></title>
-        <id>https://colorpanda.aifan.jp/pages/b2adaa/</id>
-        <link href="https://colorpanda.aifan.jp/pages/b2adaa/">
-        </link>
-        <updated>2022-06-22T15:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Zlibrary は、現時点（2022 年 06 月 22 日）]]></summary>
     </entry>
 </feed>
