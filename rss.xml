@@ -4,7 +4,7 @@
         <title></title>
         <link>https://colorpanda.aifan.jp</link>
         <description></description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 14:39:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
@@ -152,11 +152,22 @@ audio element.
             <description><![CDATA[@youtube]]></description>
         </item>
         <item>
+            <title><![CDATA[お似合いや仲の良いカップルを表す中国語四字熟語・成語]]></title>
+            <link>https://colorpanda.aifan.jp/pages/6237dc/</link>
+            <guid>https://colorpanda.aifan.jp/pages/6237dc/</guid>
+            <pubDate>Sat, 25 Jun 2022 10:35:50 GMT</pubDate>
+            <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/love.jpeg">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[[中国語] カフェ用語]]></title>
             <link>https://colorpanda.aifan.jp/pages/997fdd/</link>
             <guid>https://colorpanda.aifan.jp/pages/997fdd/</guid>
             <pubDate>Mon, 16 May 2022 23:53:25 GMT</pubDate>
-            <description><![CDATA[| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |
+            <description><![CDATA[| 日本語 🇯🇵  | 中国語 🇨🇳                     | 説明 📝                                                            |
+| :--------- | :---------------------------- | :----------------------------------------------------------------- |
+| アメリカン | 美式咖啡（ měi shì kā fēi） | 美式 : アメリカ式。 美 : 中国語の美国(アメリカ)の 略称。 |
+| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |
 | カフェラテ | 拿铁 ( ná tiě )             | Latte の発音の当て字。                                           |
 | カフェモカ | 摩卡 ( mó kǎ )              | mocha/moca の発音の当て字。                                      |
 | ココア     | 可可 ( kě kě )              | cocoa の発音の当て字。                                           |]]></description>
@@ -169,12 +180,6 @@ audio element.
             <description><![CDATA[| ロックダウン   | 封锁 (fēng suǒ)                                                                               | Lock down                           | -                                                              |
 | ゼロコロナ政策 | 新冠肺炎清零政策 (xīn guān fèi yán qīng líng zhèng cè)                                        | Zero Corona Policy                  | -                                                              |
 | コンテナ病院   | 方舱医院 (fāng cāng yī yuàn)                                                                  | Module Hospital                     | -                                                              |]]></description>
-        </item>
-        <item>
-            <title><![CDATA[サル痘 Monkey Pox関連の中国語]]></title>
-            <link>https://colorpanda.aifan.jp/pages/794bfe/</link>
-            <guid>https://colorpanda.aifan.jp/pages/794bfe/</guid>
-            <pubDate>Wed, 25 May 2022 11:32:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

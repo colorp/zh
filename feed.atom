@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://colorpanda.aifan.jp</id>
     <title></title>
-    <updated>2022-06-27T05:03:55.377Z</updated>
+    <updated>2022-06-28T14:39:11.947Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://colorpanda.aifan.jp"/>
     <link rel="self" href="https://colorpanda.aifan.jp/feed.atom"/>
@@ -147,12 +147,22 @@ audio element.
         <summary type="html"><![CDATA[@youtube]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[お似合いや仲の良いカップルを表す中国語四字熟語・成語]]></title>
+        <id>https://colorpanda.aifan.jp/pages/6237dc/</id>
+        <link href="https://colorpanda.aifan.jp/pages/6237dc/">
+        </link>
+        <updated>2022-06-25T10:35:50.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[中国語] カフェ用語]]></title>
         <id>https://colorpanda.aifan.jp/pages/997fdd/</id>
         <link href="https://colorpanda.aifan.jp/pages/997fdd/">
         </link>
         <updated>2022-05-16T23:53:25.000Z</updated>
-        <summary type="html"><![CDATA[| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |
+        <summary type="html"><![CDATA[| 日本語 🇯🇵  | 中国語 🇨🇳                     | 説明 📝                                                            |
+| :--------- | :---------------------------- | :----------------------------------------------------------------- |
+| アメリカン | 美式咖啡（ měi shì kā fēi） | 美式 : アメリカ式。 美 : 中国語の美国(アメリカ)の 略称。 |
+| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |
 | カフェラテ | 拿铁 ( ná tiě )             | Latte の発音の当て字。                                           |
 | カフェモカ | 摩卡 ( mó kǎ )              | mocha/moca の発音の当て字。                                      |
 | ココア     | 可可 ( kě kě )              | cocoa の発音の当て字。                                           |]]></summary>
@@ -166,12 +176,5 @@ audio element.
         <summary type="html"><![CDATA[| ロックダウン   | 封锁 (fēng suǒ)                                                                               | Lock down                           | -                                                              |
 | ゼロコロナ政策 | 新冠肺炎清零政策 (xīn guān fèi yán qīng líng zhèng cè)                                        | Zero Corona Policy                  | -                                                              |
 | コンテナ病院   | 方舱医院 (fāng cāng yī yuàn)                                                                  | Module Hospital                     | -                                                              |]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サル痘 Monkey Pox関連の中国語]]></title>
-        <id>https://colorpanda.aifan.jp/pages/794bfe/</id>
-        <link href="https://colorpanda.aifan.jp/pages/794bfe/">
-        </link>
-        <updated>2022-05-25T11:32:45.000Z</updated>
     </entry>
 </feed>
