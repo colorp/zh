@@ -50,10 +50,18 @@
             "date_modified": "2022-05-28T10:45:10.000Z"
         },
         {
+            "id": "https://colorpanda.aifan.jp/pages/1f0aad/",
+            "url": "https://colorpanda.aifan.jp/pages/1f0aad/",
+            "title": "[世界童話シリーズ]  オオカミと七匹のこやぎ (狼と七匹の子山羊)",
+            "summary": "狼と七匹の子山羊（おおかみとしちひきのこやぎ，The Wolf and the Kids）は、",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Wolf_und_sieben_Geisslein_%282%29.jpg",
+            "date_modified": "2022-07-07T20:41:23.000Z"
+        },
+        {
             "id": "https://colorpanda.aifan.jp/pages/63f880/",
             "url": "https://colorpanda.aifan.jp/pages/63f880/",
             "title": "[世界童話シリーズ] シンデレラ",
-            "summary": "シンデレラ（英：Cinderella）は、童話の一つ。また、その主人公。仏語で『サンドリヨン（仏：Cendrillon）』。",
+            "summary": "和名は『灰かぶり姫』あるいは『灰かぶり』。",
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Offterdinger_Aschenbrodel_%281%29.jpg",
             "date_modified": "2022-07-07T19:30:37.000Z"
         },
@@ -142,13 +150,6 @@
             "title": "[育児] 白雪姫 しらゆきひめ",
             "summary": "@youtube",
             "date_modified": "2022-05-28T01:53:17.000Z"
-        },
-        {
-            "id": "https://colorpanda.aifan.jp/pages/46836f/",
-            "url": "https://colorpanda.aifan.jp/pages/46836f/",
-            "title": "[育児] 西遊記 Journey to the West",
-            "summary": "@youtube",
-            "date_modified": "2022-05-28T01:23:57.000Z"
         }
     ]
 }

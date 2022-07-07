@@ -4,7 +4,7 @@
         <title></title>
         <link>https://colorpanda.aifan.jp</link>
         <description></description>
-        <lastBuildDate>Thu, 07 Jul 2022 10:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 12:20:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
@@ -61,11 +61,20 @@
 :::]]></description>
         </item>
         <item>
+            <title><![CDATA[[世界童話シリーズ]  オオカミと七匹のこやぎ (狼と七匹の子山羊)]]></title>
+            <link>https://colorpanda.aifan.jp/pages/1f0aad/</link>
+            <guid>https://colorpanda.aifan.jp/pages/1f0aad/</guid>
+            <pubDate>Thu, 07 Jul 2022 20:41:23 GMT</pubDate>
+            <description><![CDATA[狼と七匹の子山羊（おおかみとしちひきのこやぎ，The Wolf and the Kids）は、]]></description>
+            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Wolf_und_sieben_Geisslein_%282%29.jpg">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[[世界童話シリーズ] シンデレラ]]></title>
             <link>https://colorpanda.aifan.jp/pages/63f880/</link>
             <guid>https://colorpanda.aifan.jp/pages/63f880/</guid>
             <pubDate>Thu, 07 Jul 2022 19:30:37 GMT</pubDate>
-            <description><![CDATA[シンデレラ（英：Cinderella）は、童話の一つ。また、その主人公。仏語で『サンドリヨン（仏：Cendrillon）』。]]></description>
+            <description><![CDATA[和名は『灰かぶり姫』あるいは『灰かぶり』。]]></description>
             <enclosure url="https://upload.wikimedia.org/wikipedia/commons/4/40/Offterdinger_Aschenbrodel_%281%29.jpg">
             </enclosure>
         </item>
@@ -164,13 +173,6 @@ audio element.
             <link>https://colorpanda.aifan.jp/pages/98b00a/</link>
             <guid>https://colorpanda.aifan.jp/pages/98b00a/</guid>
             <pubDate>Sat, 28 May 2022 01:53:17 GMT</pubDate>
-            <description><![CDATA[@youtube]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[育児] 西遊記 Journey to the West]]></title>
-            <link>https://colorpanda.aifan.jp/pages/46836f/</link>
-            <guid>https://colorpanda.aifan.jp/pages/46836f/</guid>
-            <pubDate>Sat, 28 May 2022 01:23:57 GMT</pubDate>
             <description><![CDATA[@youtube]]></description>
         </item>
     </channel>
