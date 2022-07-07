@@ -50,10 +50,18 @@
             "date_modified": "2022-05-28T10:45:10.000Z"
         },
         {
+            "id": "https://colorpanda.aifan.jp/pages/63f880/",
+            "url": "https://colorpanda.aifan.jp/pages/63f880/",
+            "title": "[世界童話シリーズ] シンデレラ",
+            "summary": "シンデレラ（英：Cinderella）は、童話の一つ。また、その主人公。仏語で『サンドリヨン（仏：Cendrillon）』。",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Offterdinger_Aschenbrodel_%281%29.jpg",
+            "date_modified": "2022-07-07T19:30:37.000Z"
+        },
+        {
             "id": "https://colorpanda.aifan.jp/pages/3c765a/",
             "url": "https://colorpanda.aifan.jp/pages/3c765a/",
             "title": "[世界童話シリーズ] 三匹のこぶた 動画",
-            "summary": "三匹の子豚（さんびきのこぶた）は民間伝承によるおとぎ話の一つである。",
+            "summary": "1933 年のウォルト・ディズニーによるアニメーション映画「シリー・シンフォニー」の 1 話『三匹の子ぶた』により有名になった。",
             "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Journeys_through_Bookland_-_a_new_and_original_plan_for_reading_applied_to_the_world%27s_best_literature_for_children_%281922%29_%2814596542440%29.jpg",
             "date_modified": "2022-07-07T17:53:22.000Z"
         },
@@ -141,13 +149,6 @@
             "title": "[育児] 西遊記 Journey to the West",
             "summary": "@youtube",
             "date_modified": "2022-05-28T01:23:57.000Z"
-        },
-        {
-            "id": "https://colorpanda.aifan.jp/pages/6237dc/",
-            "url": "https://colorpanda.aifan.jp/pages/6237dc/",
-            "title": "お似合いや仲の良いカップルを表す中国語四字熟語・成語",
-            "image": "https://cdn.jsdelivr.net/gh/colorp/img/2022/love.jpeg",
-            "date_modified": "2022-06-25T10:35:50.000Z"
         }
     ]
 }
