@@ -50,17 +50,24 @@
             "date_modified": "2022-05-28T10:45:10.000Z"
         },
         {
+            "id": "https://colorpanda.aifan.jp/pages/3c765a/",
+            "url": "https://colorpanda.aifan.jp/pages/3c765a/",
+            "title": "[世界童話シリーズ] 三匹のこぶた 動画",
+            "summary": "三匹の子豚（さんびきのこぶた）は民間伝承によるおとぎ話の一つである。",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Journeys_through_Bookland_-_a_new_and_original_plan_for_reading_applied_to_the_world%27s_best_literature_for_children_%281922%29_%2814596542440%29.jpg",
+            "date_modified": "2022-07-07T17:53:22.000Z"
+        },
+        {
             "id": "https://colorpanda.aifan.jp/pages/aadfac/",
             "url": "https://colorpanda.aifan.jp/pages/aadfac/",
             "title": "[中国民謡] 民谣夜听 by 陈小虎",
-            "summary": "ゆっくりご視聴ください。 😄",
+            "summary": "こちらの民謡は 网易云音乐 でも無料公開されています。",
             "date_modified": "2022-06-17T16:48:19.000Z"
         },
         {
             "id": "https://colorpanda.aifan.jp/pages/f0e079/",
             "url": "https://colorpanda.aifan.jp/pages/f0e079/",
             "title": "[便利なツール] 意味から単語を探す 逆引き辞典・辞書",
-            "summary": "例えば、「山はとても高い」と入力すると、",
             "image": "https://raw.githubusercontent.com/thunlp/WantWords/main/resources/screenshot.png",
             "date_modified": "2022-06-29T01:41:02.000Z"
         },
@@ -68,7 +75,7 @@
             "id": "https://colorpanda.aifan.jp/pages/7d0a48/",
             "url": "https://colorpanda.aifan.jp/pages/7d0a48/",
             "title": "[凯叔讲故事] 成语故事：盲人摸象 (子供向け成語の由来ストーリー 中国語音声版)",
-            "summary": "『木を見て森を見ず』と同様の意味で用いられることがあります。",
+            "summary": "Wiki の抜粋になりますが、",
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Blind_monks_examining_an_elephant.jpg",
             "date_modified": "2022-06-25T15:00:08.000Z"
         },
@@ -76,13 +83,14 @@
             "id": "https://colorpanda.aifan.jp/pages/65559e/",
             "url": "https://colorpanda.aifan.jp/pages/65559e/",
             "title": "[中日家庭の子育て] 中国語学習のためのアプリやツール",
-            "summary": "| :----------------------------------------------------------------------------------- | :---------------------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- |\n| 儿歌多多                                 | 子供向けの歌,中国の昔話やストーリー | 寝る前や車移動中に愛用しています。                                          | iPhone や iPad  Android  Youtube チャンネル | 基本無料で有料コンテンツあり         |\n| 有道少儿词典                             | 辞書                                | 子供向けの中国語辞書                                                        | iPhone,iPad,Android 対応                                                                                                                                                                                                                                | 無料                                 |\n| 洪恩识字 | 漢字                                | ゲーム感覚で漢字の勉強                                                      | iPhone や iPad                                                                                                                                                                                              | 一部だけ無料で大半のコンテンツは有料 |\n| 悟空识字    | 漢字                                | ゲーム感覚で漢字の勉強。洪恩识字 の類似サービスで、どちらかにすれば良い。 | iPhone,iPad,Android 対応                                                                                                                                                                                                          | 一部だけ無料で大半のコンテンツは有料 |",
+            "summary": "母国語の中国語や英語などをどう勉強すれば良いのか悩んだりしている方が多いかと思います。",
             "date_modified": "2022-05-22T02:55:59.000Z"
         },
         {
             "id": "https://colorpanda.aifan.jp/pages/a0e239/",
             "url": "https://colorpanda.aifan.jp/pages/a0e239/",
             "title": "[漢字] 簡体字 繁体字 日本の漢字の違い",
+            "summary": "\n\nYour browser does not support the\naudio element.\n",
             "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Chinese_characters_logo.svg",
             "date_modified": "2022-05-23T22:18:39.000Z"
         },
@@ -90,7 +98,6 @@
             "id": "https://colorpanda.aifan.jp/pages/4f44ae/",
             "url": "https://colorpanda.aifan.jp/pages/4f44ae/",
             "title": "[漢字の成り立ち] 起",
-            "summary": "\nYour browser does not support the\naudio element.\n",
             "image": "https://hanyu-word-gif.cdn.bcebos.com/bf523c118688d48f3b6565c1698db68f5.gif",
             "date_modified": "2022-05-23T01:21:13.000Z"
         },
@@ -141,13 +148,6 @@
             "title": "お似合いや仲の良いカップルを表す中国語四字熟語・成語",
             "image": "https://cdn.jsdelivr.net/gh/colorp/img/2022/love.jpeg",
             "date_modified": "2022-06-25T10:35:50.000Z"
-        },
-        {
-            "id": "https://colorpanda.aifan.jp/pages/997fdd/",
-            "url": "https://colorpanda.aifan.jp/pages/997fdd/",
-            "title": "[中国語] カフェ用語",
-            "summary": "| 日本語 🇯🇵  | 中国語 🇨🇳                     | 説明 📝                                                            |\n| :--------- | :---------------------------- | :----------------------------------------------------------------- |\n| アメリカン | 美式咖啡（ měi shì kā fēi） | 美式 : アメリカ式。 美 : 中国語の美国(アメリカ)の 略称。 |\n| カプチーノ | 卡布奇诺 ( kǎ bù qí nuò )   | cappuccino の発音の当て字。                                      |\n| カフェラテ | 拿铁 ( ná tiě )             | Latte の発音の当て字。                                           |\n| カフェモカ | 摩卡 ( mó kǎ )              | mocha/moca の発音の当て字。                                      |\n| ココア     | 可可 ( kě kě )              | cocoa の発音の当て字。                                           |",
-            "date_modified": "2022-05-16T23:53:25.000Z"
         }
     ]
 }
