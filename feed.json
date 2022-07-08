@@ -58,10 +58,18 @@
             "date_modified": "2022-07-07T20:41:23.000Z"
         },
         {
+            "id": "https://colorpanda.aifan.jp/pages/5f2a28/",
+            "url": "https://colorpanda.aifan.jp/pages/5f2a28/",
+            "title": "[世界童話シリーズ] うさぎとかめ",
+            "summary": "イソップ寓話やラ・フォンテーヌが書いた寓話詩ぐうわしにも所収されている。",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Tortoise_and_the_Hare_-_Project_Gutenberg_etext_19994.jpg",
+            "date_modified": "2022-07-07T20:02:58.000Z"
+        },
+        {
             "id": "https://colorpanda.aifan.jp/pages/63f880/",
             "url": "https://colorpanda.aifan.jp/pages/63f880/",
             "title": "[世界童話シリーズ] シンデレラ",
-            "summary": "和名は『灰かぶり姫』あるいは『灰かぶり』。",
+            "summary": "@youtube",
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Offterdinger_Aschenbrodel_%281%29.jpg",
             "date_modified": "2022-07-07T19:30:37.000Z"
         },
@@ -69,7 +77,7 @@
             "id": "https://colorpanda.aifan.jp/pages/3c765a/",
             "url": "https://colorpanda.aifan.jp/pages/3c765a/",
             "title": "[世界童話シリーズ] 三匹のこぶた 動画",
-            "summary": "1933 年のウォルト・ディズニーによるアニメーション映画「シリー・シンフォニー」の 1 話『三匹の子ぶた』により有名になった。",
+            "summary": "@youtube",
             "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Journeys_through_Bookland_-_a_new_and_original_plan_for_reading_applied_to_the_world%27s_best_literature_for_children_%281922%29_%2814596542440%29.jpg",
             "date_modified": "2022-07-07T17:53:22.000Z"
         },
@@ -77,13 +85,13 @@
             "id": "https://colorpanda.aifan.jp/pages/aadfac/",
             "url": "https://colorpanda.aifan.jp/pages/aadfac/",
             "title": "[中国民謡] 民谣夜听 by 陈小虎",
-            "summary": "こちらの民謡は 网易云音乐 でも無料公開されています。",
             "date_modified": "2022-06-17T16:48:19.000Z"
         },
         {
             "id": "https://colorpanda.aifan.jp/pages/f0e079/",
             "url": "https://colorpanda.aifan.jp/pages/f0e079/",
             "title": "[便利なツール] 意味から単語を探す 逆引き辞典・辞書",
+            "summary": "通常の辞書が単語の定義を教えてくれるのに対し、",
             "image": "https://raw.githubusercontent.com/thunlp/WantWords/main/resources/screenshot.png",
             "date_modified": "2022-06-29T01:41:02.000Z"
         },
@@ -143,13 +151,6 @@
             "title": "[育児] 唐詩 厳選50首",
             "image": "https://cdn.jsdelivr.net/gh/colorp/img/2022/唐诗.png",
             "date_modified": "2022-05-28T02:15:09.000Z"
-        },
-        {
-            "id": "https://colorpanda.aifan.jp/pages/98b00a/",
-            "url": "https://colorpanda.aifan.jp/pages/98b00a/",
-            "title": "[育児] 白雪姫 しらゆきひめ",
-            "summary": "@youtube",
-            "date_modified": "2022-05-28T01:53:17.000Z"
         }
     ]
 }
