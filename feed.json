@@ -66,6 +66,14 @@
             "date_modified": "2022-07-07T20:02:58.000Z"
         },
         {
+            "id": "https://colorpanda.aifan.jp/pages/9aed5x/",
+            "url": "https://colorpanda.aifan.jp/pages/9aed5x/",
+            "title": "[世界童話シリーズ] みにくいアヒルの子",
+            "summary": "アヒルの群の中で、他のアヒルと異なった姿のひなが生まれた。",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/A_Corny_Concerto_%282%29.png",
+            "date_modified": "2022-07-07T20:49:35.000Z"
+        },
+        {
             "id": "https://colorpanda.aifan.jp/pages/63f880/",
             "url": "https://colorpanda.aifan.jp/pages/63f880/",
             "title": "[世界童話シリーズ] シンデレラ",
@@ -144,13 +152,6 @@
             "summary": "@youtube",
             "image": "https://cdn.jsdelivr.net/gh/colorp/img/2022/九九乘法表.png",
             "date_modified": "2022-05-28T00:51:41.000Z"
-        },
-        {
-            "id": "https://colorpanda.aifan.jp/pages/0f0496/",
-            "url": "https://colorpanda.aifan.jp/pages/0f0496/",
-            "title": "[育児] 唐詩 厳選50首",
-            "image": "https://cdn.jsdelivr.net/gh/colorp/img/2022/唐诗.png",
-            "date_modified": "2022-05-28T02:15:09.000Z"
         }
     ]
 }

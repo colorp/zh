@@ -4,7 +4,7 @@
         <title></title>
         <link>https://colorpanda.aifan.jp</link>
         <description></description>
-        <lastBuildDate>Fri, 08 Jul 2022 16:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 12:05:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
@@ -76,6 +76,15 @@
             <pubDate>Thu, 07 Jul 2022 20:02:58 GMT</pubDate>
             <description><![CDATA[イソップ寓話やラ・フォンテーヌが書いた寓話詩ぐうわしにも所収されている。]]></description>
             <enclosure url="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Tortoise_and_the_Hare_-_Project_Gutenberg_etext_19994.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[[世界童話シリーズ] みにくいアヒルの子]]></title>
+            <link>https://colorpanda.aifan.jp/pages/9aed5x/</link>
+            <guid>https://colorpanda.aifan.jp/pages/9aed5x/</guid>
+            <pubDate>Thu, 07 Jul 2022 20:49:35 GMT</pubDate>
+            <description><![CDATA[アヒルの群の中で、他のアヒルと異なった姿のひなが生まれた。]]></description>
+            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/7/78/A_Corny_Concerto_%282%29.png">
             </enclosure>
         </item>
         <item>
@@ -167,14 +176,6 @@ audio element.
             <pubDate>Sat, 28 May 2022 00:51:41 GMT</pubDate>
             <description><![CDATA[@youtube]]></description>
             <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/九九乘法表.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[[育児] 唐詩 厳選50首]]></title>
-            <link>https://colorpanda.aifan.jp/pages/0f0496/</link>
-            <guid>https://colorpanda.aifan.jp/pages/0f0496/</guid>
-            <pubDate>Sat, 28 May 2022 02:15:09 GMT</pubDate>
-            <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/唐诗.png">
             </enclosure>
         </item>
     </channel>
