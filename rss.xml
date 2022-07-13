@@ -4,7 +4,7 @@
         <title></title>
         <link>https://colorpanda.aifan.jp</link>
         <description></description>
-        <lastBuildDate>Wed, 13 Jul 2022 12:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 12:09:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://colorpanda.aifan.jp/feed.atom" rel="self" type="application/rss+xml"/>
@@ -97,11 +97,17 @@
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[[世界童話シリーズ] マッチ売りの少女]]></title>
+            <link>https://colorpanda.aifan.jp/pages/a196bd/</link>
+            <guid>https://colorpanda.aifan.jp/pages/a196bd/</guid>
+            <pubDate>Thu, 07 Jul 2022 20:57:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[世界童話シリーズ] 三匹のこぶた 動画]]></title>
             <link>https://colorpanda.aifan.jp/pages/3c765a/</link>
             <guid>https://colorpanda.aifan.jp/pages/3c765a/</guid>
             <pubDate>Thu, 07 Jul 2022 17:53:22 GMT</pubDate>
-            <description><![CDATA[@youtube]]></description>
+            <description><![CDATA[WIKI の抜粋になりますが、]]></description>
             <enclosure url="https://upload.wikimedia.org/wikipedia/commons/c/c4/Journeys_through_Bookland_-_a_new_and_original_plan_for_reading_applied_to_the_world%27s_best_literature_for_children_%281922%29_%2814596542440%29.jpg">
             </enclosure>
         </item>
@@ -110,13 +116,14 @@
             <link>https://colorpanda.aifan.jp/pages/aadfac/</link>
             <guid>https://colorpanda.aifan.jp/pages/aadfac/</guid>
             <pubDate>Fri, 17 Jun 2022 16:48:19 GMT</pubDate>
+            <description><![CDATA[ゆっくりご視聴ください。 😄]]></description>
         </item>
         <item>
             <title><![CDATA[[便利なツール] 意味から単語を探す 逆引き辞典・辞書]]></title>
             <link>https://colorpanda.aifan.jp/pages/f0e079/</link>
             <guid>https://colorpanda.aifan.jp/pages/f0e079/</guid>
             <pubDate>Wed, 29 Jun 2022 01:41:02 GMT</pubDate>
-            <description><![CDATA[通常の辞書が単語の定義を教えてくれるのに対し、]]></description>
+            <description><![CDATA[例えば、「山はとても高い」と入力すると、]]></description>
             <enclosure url="https://raw.githubusercontent.com/thunlp/WantWords/main/resources/screenshot.png">
             </enclosure>
         </item>
@@ -125,7 +132,7 @@
             <link>https://colorpanda.aifan.jp/pages/7d0a48/</link>
             <guid>https://colorpanda.aifan.jp/pages/7d0a48/</guid>
             <pubDate>Sat, 25 Jun 2022 15:00:08 GMT</pubDate>
-            <description><![CDATA[Wiki の抜粋になりますが、]]></description>
+            <description><![CDATA[『木を見て森を見ず』と同様の意味で用いられることがあります。]]></description>
             <enclosure url="https://upload.wikimedia.org/wikipedia/commons/4/45/Blind_monks_examining_an_elephant.jpg">
             </enclosure>
         </item>
@@ -134,18 +141,17 @@
             <link>https://colorpanda.aifan.jp/pages/65559e/</link>
             <guid>https://colorpanda.aifan.jp/pages/65559e/</guid>
             <pubDate>Sun, 22 May 2022 02:55:59 GMT</pubDate>
-            <description><![CDATA[母国語の中国語や英語などをどう勉強すれば良いのか悩んだりしている方が多いかと思います。]]></description>
+            <description><![CDATA[| :----------------------------------------------------------------------------------- | :---------------------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------- |
+| 儿歌多多                                 | 子供向けの歌,中国の昔話やストーリー | 寝る前や車移動中に愛用しています。                                          | iPhone や iPad  Android  Youtube チャンネル | 基本無料で有料コンテンツあり         |
+| 有道少儿词典                             | 辞書                                | 子供向けの中国語辞書                                                        | iPhone,iPad,Android 対応                                                                                                                                                                                                                                | 無料                                 |
+| 洪恩识字 | 漢字                                | ゲーム感覚で漢字の勉強                                                      | iPhone や iPad                                                                                                                                                                                              | 一部だけ無料で大半のコンテンツは有料 |
+| 悟空识字    | 漢字                                | ゲーム感覚で漢字の勉強。洪恩识字 の類似サービスで、どちらかにすれば良い。 | iPhone,iPad,Android 対応                                                                                                                                                                                                          | 一部だけ無料で大半のコンテンツは有料 |]]></description>
         </item>
         <item>
             <title><![CDATA[[漢字] 簡体字 繁体字 日本の漢字の違い]]></title>
             <link>https://colorpanda.aifan.jp/pages/a0e239/</link>
             <guid>https://colorpanda.aifan.jp/pages/a0e239/</guid>
             <pubDate>Mon, 23 May 2022 22:18:39 GMT</pubDate>
-            <description><![CDATA[
-
-Your browser does not support the
-audio element.
-]]></description>
             <enclosure url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Chinese_characters_logo.svg">
             </enclosure>
         </item>
@@ -154,6 +160,10 @@ audio element.
             <link>https://colorpanda.aifan.jp/pages/4f44ae/</link>
             <guid>https://colorpanda.aifan.jp/pages/4f44ae/</guid>
             <pubDate>Mon, 23 May 2022 01:21:13 GMT</pubDate>
+            <description><![CDATA[
+Your browser does not support the
+audio element.
+]]></description>
             <enclosure url="https://hanyu-word-gif.cdn.bcebos.com/bf523c118688d48f3b6565c1698db68f5.gif">
             </enclosure>
         </item>
@@ -168,15 +178,6 @@ audio element.
             <link>https://colorpanda.aifan.jp/pages/27f75f/</link>
             <guid>https://colorpanda.aifan.jp/pages/27f75f/</guid>
             <pubDate>Thu, 26 May 2022 23:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[育児] 九九のうた]]></title>
-            <link>https://colorpanda.aifan.jp/pages/3d374e/</link>
-            <guid>https://colorpanda.aifan.jp/pages/3d374e/</guid>
-            <pubDate>Sat, 28 May 2022 00:51:41 GMT</pubDate>
-            <description><![CDATA[@youtube]]></description>
-            <enclosure url="https://cdn.jsdelivr.net/gh/colorp/img/2022/九九乘法表.png">
-            </enclosure>
         </item>
     </channel>
 </rss>
