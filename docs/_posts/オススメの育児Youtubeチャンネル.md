@@ -35,3 +35,9 @@ author:
 [Pinkfong Baby Shark - Kids' Songs & Stories](https://www.youtube.com/c/pinkfong)
 
 [ボンボンアカデミー](https://www.youtube.com/watch?v=sMe-kq9h_Ak)
+
+## 中国語と英語チャンネル
+
+- [Pebbles Chinese](https://www.youtube.com/watch?v=jJQ0IclGStg)
+  - 親子二人が中国語と英語を教えているチャンネルです。
+  - ![Pebbles Chinese](https://cdn.jsdelivr.net/gh/colorp/img/2022/20220716103832.png)
